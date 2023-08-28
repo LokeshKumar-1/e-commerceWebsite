@@ -1,0 +1,47 @@
+.similar-item {
+  height: 400px;
+  width: 260px;
+  font-family: 'Roboto';
+  background-color: #cbced2;
+  margin-bottom: 15px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.similiar-product-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.SP-title {
+  color: #12022f;
+  font-weight: bold;
+}
+
+.SP-brand {
+  color: #616e7c;
+}
+
+.SP-priceAndRating-Container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.SP-price {
+  color: #171f46;
+  font-weight: bold;
+}
+
+.SP-rating-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 50px;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+}
